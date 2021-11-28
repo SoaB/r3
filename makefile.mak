@@ -1,5 +1,5 @@
 TARGET = main
-HEADFILE = mover.h rnd.h sgi.h v2d.h
+HEADFILE = oscillator.h rnd.h sgi.h v2d.h
 
 WORKDIR = %cd%
 
